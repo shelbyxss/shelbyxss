@@ -1,7 +1,7 @@
 # 🕳️ Shelbyxss
 
 > 💀 Ethical Hacker in training | Specializing in web abuse, whisper traps, and signal-based exploits  
-> 🕵️ Currently on a 15-week sprint to land a job in offensive security
+> 🕵️ Currently on a 15-week sprint 
 
 ---
 
